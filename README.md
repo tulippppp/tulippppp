@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Backend Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Enthusiast;Backend+Developer;Hackathon+Builder;DSA+Learner;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Hackathon+Builder;DSA+Learner;Building+Projects+That+Matter" />
 </p>
 
 ---
