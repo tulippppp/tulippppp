@@ -62,8 +62,8 @@ Built Real-World Projects
 #  GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=tulippppp&show_icons=true&theme=radical" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tulippppp&theme=radical" height="170">
 </p>
 
 ---
@@ -71,7 +71,7 @@ Built Real-World Projects
 # Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tulippppp&theme=react-dark">
 </p>
 
 ---
@@ -79,7 +79,7 @@ Built Real-World Projects
 # Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/tulippppp/tulippppp/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Built Real-World Projects
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=tulippppp&label=Profile%20Views&color=blueviolet&style=flat">
 </p>
 
 ---
