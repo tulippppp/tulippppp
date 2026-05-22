@@ -52,9 +52,9 @@ Goal: Build products that scale to millions
 
 # Achievements
 
-Solved 500+ DSA Problems  
-Multiple hackathons Winner
-Certified in AI & Machine Learning 
+Solved 500+ DSA Problems,   
+Multiple hackathons Winner, 
+Certified in AI & Machine Learning, 
 Built Real-World Projects
 
 ---
