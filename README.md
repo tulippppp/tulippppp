@@ -12,7 +12,7 @@
 Passionate about building impactful tech projects  
 Interested in AI, Backend Development & Data Science  
 Solving DSA problems regularly  
-Hackathon Enthusiast  
+Multiple Hackathons Winner 
 Currently learning Full Stack + System Design  
 Goal: Build products that scale to millions
 
