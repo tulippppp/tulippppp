@@ -10,7 +10,7 @@
 # About Me
 
 Passionate about building impactful tech projects  
-Interested in AI, Backend Development & Data Science  
+Interested in AI, Backend Development & Machine Learning 
 Solving DSA problems regularly  
 Multiple Hackathons Winner 
 Currently learning Full Stack + System Design  
