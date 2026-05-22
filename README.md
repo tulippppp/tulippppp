@@ -27,7 +27,7 @@ Goal: Build products that scale to millions
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
@@ -84,7 +84,7 @@ Built Real-World Projects
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tulippppp&label=Profile%20Views&color=blueviolet&style=flat">
