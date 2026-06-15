@@ -9,12 +9,11 @@
 
 # About Me
 
-Passionate about building impactful tech projects,  
-Interested in AI, Backend Development & Machine Learning,  
-Solving DSA problems regularly,   
-Multiple Hackathons Winner,  
-Currently learning Full Stack + System Design,   
-Goal: Build products that scale to millions
+Building products at the intersection of AI and Engineering,  
+Interested in AI, Backend & Machine Learning,  
+Google Developer Hackathon Winner,  
+DSA Enthusiast • Full Stack Learner • System Design Explorer,  
+Goal → Build products that scale to millions
 
 ---
 
