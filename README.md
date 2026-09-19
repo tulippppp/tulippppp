@@ -9,7 +9,7 @@
 
 # About Me
 
-Building products at the intersection of AI and Engineering
+Building products at the intersection of AI and Engineering,
 Interested in AI, Backend & Machine Learning,  
 Google Developer Hackathon Winner,  
 DSA Enthusiast • Full Stack Learner • System Design Explorer,  
